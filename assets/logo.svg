@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="540" height="110" viewBox="0 0 540 110">
+<rect width="540" height="110" rx="18" fill="none"/>
+<g transform="translate(12 15)">
+  <rect width="78" height="78" rx="18" fill="#dff3df"/>
+  <path d="M18 54 L38 18 L61 54 L53 54 L38 31 L26 54 Z" fill="#285c3a"/>
+  <path d="M29 58 H62" stroke="#b3262e" stroke-width="7" stroke-linecap="round"/>
+</g>
+<text x="106" y="67" font-family="Georgia, serif" font-size="44" font-weight="700" fill="#17211a">eldholmspal</text>
+</svg>
